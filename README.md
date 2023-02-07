@@ -1,2 +1,1 @@
-My first readme
-The beginning of all
+The beginning of it all
